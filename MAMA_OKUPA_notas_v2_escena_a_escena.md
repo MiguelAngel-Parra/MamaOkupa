@@ -155,31 +155,6 @@ Estas decisiones afectan a varias escenas a la vez. Conviene tomarlas primero, p
 ### Esc. 23, 24 y 25 · COCINA / CUARTO PAKI / PASILLO – NOCHE (pp. 24–25)
 - ✂️ ↕ **Fundir en una sola escena** con montaje paralelo (Maru en la puerta / Paki en la cama). Las tres juntas ocupan una página y la división corta el momento.
 
-### ➕ Esc. 25A (nueva) · INT. CASA OKUPA – COCINA – DÍA
-**Función:** el segundo acto necesita escenas de Maru y Paki **peleando con gracia** y no solo con portazos. Además, el espectador empieza a sospechar que Maru lo sabe.
-
-> PAKI entra en la cocina, ojerosa. En su sitio de la mesa: una manzanilla, galletas María y un plátano. Nadie más tiene desayuno.
-> PAKI
-> ¿Y esto?
-> MARU
-> (fregando, sin girarse)
-> Para el estómago. Que anoche te oí.
-> PAKI
-> Me sentó mal el tofu.
-> MARU
-> El tofu le sienta mal a todo el mundo, hija. Eso no es noticia.
-> Paki abre la nevera. Sus latas de cerveza han desaparecido. En su lugar, seis botellines SIN.
-> PAKI
-> ¿Dónde está mi cerveza?
-> MARU
-> Se ha caducado.
-> PAKI
-> La cerveza no caduca.
-> MARU
-> Pues esa sí. Era muy mala.
-> Paki la mira, sospechando. Maru le sostiene la mirada, impasible. Paki coge una galleta, la muerde con rabia y se va.
-> Maru sonríe y vuelve a fregar.
-
 ### Esc. 26 · EXT. CALLE – DÍA (p.25)
 - 🎭 "GRUPO DE JAPONESES" → "GRUPO DE TURISTAS" (se evita el estereotipo y no pierde nada).
 
@@ -195,6 +170,97 @@ Estas decisiones afectan a varias escenas a la vez. Conviene tomarlas primero, p
 - 🔤 "Al cerrarse, la puerta vemos en un cartel avisa" → "Al cerrarse la puerta, vemos un cartel que avisa".
 - 🔗 Cartel "Velá 2026" → "Velá 2027" (decisión 1).
 - ✅ Muy buena escena: presenta el desahucio de Purita de forma visual (Lola vocalizando "des-hau-cio").
+
+### ➕ Esc. 28A (nueva) · EXT. CALLE DEL BARRIO / LOCAL DE LA PERSIANA – NOCHE
+*(Sustituye a la antigua 25A.)*
+
+**Función:**
+- Maru y Paki pelean con gracia y no solo con portazos.
+- Por primera vez vemos a Paki **militando**: hasta ahora la conocemos por la tele y por lo que cuentan los demás.
+- Maru aplica el consejo de Purita en la escena 27 ("¿Se lo has preguntado?").
+- El espectador empieza a sospechar que Maru sabe lo del embarazo, sin decirlo.
+- Explica el dolor de cabeza con el que Maru llega a la escena 29.
+
+> Las dos de la mañana. Calles vacías. Solo el traqueteo lejano de un 'trolley'.
+> PAKI camina deprisa con un cubo de engrudo, una brocha y un rollo de carteles bajo el brazo. Detrás, trotando, MARU: pijama de raso, abrigo de cuello de piel por encima y el bolso de marca colgado del antebrazo.
+> PAKI
+> Vete a casa.
+> MARU
+> Sola por ahí a las dos de la mañana, ni hablar.
+> PAKI
+> Llevo diez años saliendo sola a las dos de la mañana.
+> MARU
+> Y yo diez años sin pegar ojo.
+> Paki no sabe qué contestar. Acelera.
+>
+> Llegan a la persiana metálica del local de siempre. Allí esperan AMIGO 1 y AMIGO 2 (los de la asamblea) con una escalera de mano. Ven a Maru.
+> AMIGO 1
+> ¿Y la tía de Fran?
+> Paki cierra los ojos.
+> MARU
+> Que no duermo. Cosas de la edad.
+> Amigo 2 apoya la escalera en la fachada. Paki agarra el cubo y pone un pie en el primer peldaño. Maru agarra la escalera por abajo.
+> MARU (CONT'D)
+> Tú ahí no te subes.
+> PAKI
+> ¿Perdona?
+> MARU
+> Que te vas a matar. Que se suba el muchacho.
+> AMIGO 2
+> Yo tengo vértigo.
+> MARU
+> Pues el otro.
+> AMIGO 1
+> Yo soy más de la parte teórica.
+> Paki tira de la escalera. Maru también. Forcejeo silencioso de madre e hija con la escalera de por medio. Los amigos miran como en un partido de tenis.
+> MARU (CONT'D)
+> Trae.
+> Maru le quita la brocha y, con botas, pijama y abrigo de piel, sube la escalera con toda su dignidad.
+> PAKI
+> ¡Mamá!
+> Silencio. Los amigos se miran.
+> AMIGO 1
+> ¿…Mamá?
+> PAKI
+> (rápido)
+> La llamamos así. En el colectivo. Es que es muy… maternal.
+> AMIGO 2
+> (emocionado)
+> Qué bonito, tía.
+>
+> Arriba, Maru moja la brocha y pega el cartel: tres pasadas largas, sin una burbuja. Perfecto. En él se lee: "ESTE LOCAL ES DEL BARRIO".
+> MARU
+> Treinta años empapelando el salón cada vez que a tu padre se le antojaba un color. (se corrige) A… al padre de Fran.
+> Paki la mira desde abajo, sorprendida, sin querer estarlo.
+> MARU (CONT'D)
+> (mirando el cartel)
+> Ha quedado precioso. ¿Qué es un "local del barrio"?
+>
+> Al fondo de la calle, las luces azules de un COCHE PATRULLA. Los amigos salen corriendo. Paki va a echar a correr también…
+> MARU (CONT'D)
+> ¡Quieta! Tú no corres.
+> Maru baja de la escalera sin prisa, se limpia las manos de engrudo en el pijama, coge a Paki del brazo y echan a andar despacio, como dos señoras que vuelven de un bautizo.
+> El coche patrulla se pone a su altura. Un POLICÍA las mira por la ventanilla: el cubo, la brocha que gotea…
+> MARU (CONT'D)
+> (levanta la barbilla, como saludaba en el pueblo)
+> Buenas noches, agente. Que venimos de un bautizo.
+> El policía duda. Mira a Maru de arriba abajo: las perlas, el abrigo de piel. Sube la ventanilla y sigue.
+> Paki suelta una carcajada. Es la primera vez que se ríe con su madre. Se da cuenta y se para en seco.
+> MARU (CONT'D)
+> (bajito, sin mirarla)
+> ¿Tú estás bien, hija?
+> PAKI
+> Estoy pegando carteles a las dos de la mañana con mi madre. Fatal.
+> Pero no se suelta del brazo. Siguen andando. Detrás de ellas, el cartel brilla todavía mojado bajo la farola.
+
+**Notas de uso:**
+- **Escena 29:** el "se frota las sienes" de Maru al llegar con la compra queda justificado por la noche sin dormir.
+- **Escena 68:** cuando Maru pasa por el local ya convertido en "Brunch / Locker / Flamenco Experience", ve entre la pintura nueva un trozo despegado de **su** cartel ("…DEL BARRIO"). Lo alisa con la mano antes de pegar el suyo encima. El fracaso de entonces le da fuerza al cartel nuevo.
+- **Escena 20:** con esta escena encaja todavía mejor la propuesta de que la acción del colectivo sea el local de la persiana y no "el local del banco".
+- **Escena 57:** "Tú no corres" se repite en la manifestación de Purita cuando Maru aparta a Paki del forcejeo. Primero es un gag y después tiene sentido.
+
+### Alternativa corta (si preferís una escena de interior de una página)
+**28A-bis · INT. CASA OKUPA – BAÑO / PASILLO – DÍA.** Guerra por el único baño. Maru lleva veinte minutos dentro con rulos, laca y cremas, y Paki aporrea la puerta cada vez más pálida. Maru abre justo a tiempo. Paki se lanza al váter y Maru, sin decir nada, le sujeta las rastas como quien sujeta una melena de comunión. Paki: "No me toques el pelo." Maru: "Pues échate tú las rastas para atrás, que me las vas a pringar." Es menos ambiciosa, pero pone el cariño en un gesto físico en lugar de en un diálogo.
 
 ### Esc. 29 · INT. CASA OKUPA – COCINA – DÍA (pp. 32–34)
 - 🔤 "Eees.. Pue mira" → "Pues mira…" (o aclarar si es intencionado).
@@ -538,7 +604,7 @@ Es la escena más larga del guion, unas 9 páginas.
 |---|---|
 | Eliminar la esc. 21 o fundirla con la 22 | No aporta información. |
 | Fundir las esc. 23, 24 y 25 en una sola | Ocupan una página partida en tres y la división corta el momento. |
-| Añadir la 25A entre la 25 y la 26 | Pelea cómica de madre e hija. Paki está demasiado ausente. |
+| Añadir la 28A entre la 28 y la 29 | Paki y Maru pegando carteles de noche: pelea cómica y primera vez que vemos militar a Paki. Sustituye a la antigua 25A. |
 | Mover el abrazo de madre e hija de la esc. 58 a la 69 | Hoy hay dos clímax iguales. |
 | Nuevo orden del tercer acto: 62 → 63 → **63A** → 64 → 65 → 66 → 67 → **67A** → 68 → **68A** → 69 → 70 → 71 → XX → 72 | Con las escenas nuevas, la decisión de Maru tiene causa y consecuencia. |
 
@@ -567,7 +633,7 @@ Es la escena más larga del guion, unas 9 páginas.
 | Cambio | Páginas |
 |---|---|
 | Recortes: esc. 21, 22, 23–25, 31–33, 47 y 69 | −6 a −7 |
-| Escenas nuevas: 4A, 25A, 63A, 67A y 68A | +5 a +6 |
+| Escenas nuevas: 4A, 28A, 63A, 67A y 68A | +5 a +6 |
 | **Resultado** | **unas 98–100 páginas** (adecuado para una comedia de 95–100 minutos) |
 
 Si hace falta recortar más, la primera candidata es la 68A (opcional), y después la 42.
